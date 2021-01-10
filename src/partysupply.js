@@ -6,9 +6,9 @@ class partysupply extends Component{
         return(
             <div>
                 <h2>Party Supplies</h2>
-                <p>We want to host all your parties so that you stay at peace and relax the event.
-                   We have our professional services who plan the event with you from beginnig to end.
-                   So, it's time to relax and enjoy the event.
+                <p>We want to host all your parties so that you stay at peace and enjoy the moments.
+                   We have our professional services who will plan the event with you from start to end.
+                   Happy to Host!!!
                 </p>
             </div>
         );
